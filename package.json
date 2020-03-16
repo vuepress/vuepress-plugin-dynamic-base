@@ -18,7 +18,7 @@
     "cov": "jest --coverage",
     "lint": "eslint --fix lib",
     "prepublishOnly": "conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
-    "depcost": "node bin/cli.js --record --npm-client=npm",
+    "depcost": "depcost --record --npm-client=npm",
     "postpublish": "npm run depcost"
   },
   "repository": {
@@ -32,6 +32,7 @@
     "conventional-changelog-cli": "^2.0.31",
     "eslint": "^6.8.0",
     "eslint-config-lab": "^0.1.1",
-    "jest-cli": "^24.8.0"
+    "jest-cli": "^24.8.0",
+    "depcost": "^0.2.1"
   }
 }
