@@ -9,7 +9,7 @@
 
 ## Motivation
 
-The [base](https://vuepress.vuejs.org/config/#base) of VuePress assumes that the user's website will always have the same public path with router base. but it's very likely that we need to set them separately. For example, you'd deploy HTML and assets on different servers.
+The [base](https://vuepress.vuejs.org/config/#base) option of VuePress assumes that the user's website will always have the same public path with router base. but it's very likely that we need to set them separately. For example, you'd deploy HTML and assets on different servers.
 
 See also:
 
