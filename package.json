@@ -4,11 +4,14 @@
   "description": "Retrieve the time and space cost of using a dependency",
   "main": "lib/index.js",
   "files": [
-    "bin",
     "lib"
   ],
   "keywords": [
-    "dependency"
+    "public path",
+    "router base",
+    "vuepress",
+    "plugin",
+    ""
   ],
   "scripts": {
     "test": "jest",
