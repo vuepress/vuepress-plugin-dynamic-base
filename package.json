@@ -14,8 +14,8 @@
     ""
   ],
   "scripts": {
-    "test": "jest",
-    "cov": "jest --coverage",
+    "test": "jest --passWithNoTests",
+    "cov": "jest --passWithNoTests --coverage",
     "lint": "eslint --fix lib",
     "prepublishOnly": "conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
     "depcost": "depcost --record --npm-client=npm",
