@@ -1,0 +1,10 @@
+<a name="0.1.0"></a>
+# [0.1.0](https://github.com/vuepressjs/depcost/compare/682b494...v0.1.0) (2020-03-16)
+
+
+### Features
+
+* init ([682b494](https://github.com/vuepressjs/depcost/commit/682b494))
+
+
+
