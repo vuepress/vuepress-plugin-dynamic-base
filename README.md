@@ -19,8 +19,8 @@ See also:
 ## Install
 
 ```bash
-yarn add -D @vuepress/plugin-schema2md
-# OR npm install -D @vuepress/plugin-schema2md
+yarn add -D vuepress-plugin-dynamic-base
+# OR npm install -D vuepress-plugin-dynamic-base
 ```
 
 ## Usage
